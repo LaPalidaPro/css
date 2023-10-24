@@ -1,0 +1,24 @@
+body{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    background-color: aqua;
+    background: rgb(241, 167, 167);
+    color: darkblue;
+    color: rgb(red, green, blue);
+    color: darkblue;
+}
+p{
+    color: brown;
+    color: #299060;
+    color: rgb(26, 11, 100)
+    
+}
+.dos span{
+
+    background-color: goldenrod ;
+}
+
+.tres{
+    background-color: rgb(116, 116, 173);
+}

@@ -1,0 +1,37 @@
+/*  
+Al poner el * hacemos referencia todo
+*{
+    margin: 0;
+    padding: 0;
+} */
+p {
+    color: aqua ; /*  si pongo !important se pone por encima de todo  */
+    
+}
+#segundo {
+    color: blue;
+}
+.grey{
+    color: grey;
+}
+p a{
+    color: red;
+}
+
+h1,h2{
+    color: blueviolet;
+}
+
+
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+    color:blue;
+    border: 1px solid black;
+}
+
+input,button,textarea{ /*Estos elementos no heredan por lo que hay que pobnerle inherit para que lo hagan*/
+    font: inherit ;
+}
+
